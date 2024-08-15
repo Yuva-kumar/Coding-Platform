@@ -1,0 +1,9 @@
+Reference
+
+backend/node_modules
+frontend/node_modules
+
+.env
+backend/dump.txt
+backend/output.txt
+
